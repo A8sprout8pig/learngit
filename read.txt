@@ -1,6 +1,6 @@
-his is a read.txt file 
+Ihis is a read.txt eile 
 
-it writed words by mutong
+it writed words bssss： mutong
 
 是我的修改 为了证明git 是跟踪的修改而不是文件
 
@@ -8,4 +8,9 @@ it writed words by mutong
 
 这是第二次修改 目的一样 通过牧童之手
 
-Java 
+Java
+
+
+
+这次 也是 为了查看修改 目的 是在暂存区里查看或者撤回:wq
+
