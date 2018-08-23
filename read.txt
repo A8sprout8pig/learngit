@@ -1,0 +1,6 @@
+this is a read.txt file 
+
+it writed words by mutong
+
+
+
