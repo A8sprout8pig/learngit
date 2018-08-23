@@ -1,6 +1,7 @@
-this is a read.txt file 
+his is a read.txt file 
 
 it writed words by mutong
 
+这是我的修改 为了证明git 是跟踪的修改而不是文件
 
 
